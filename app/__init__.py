@@ -1,0 +1,2 @@
+"""Incident prediction module prototype."""
+
